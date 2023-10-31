@@ -2,4 +2,6 @@
 voidmain()
 {
  printf("Hello World...!!!");
+
+printf("/nthis is basic C program");
 }
